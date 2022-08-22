@@ -1,9 +1,9 @@
 ---
 
-api_id: API_ID
-api_hash: API_HASH
-app_short_name: APP_SHORT_NAME
-phone_number: "PHONE_NUMBER"
+api_id:14882974
+api_hash:477480865efd83916a55ac039babf9cd
+app_short_name: podoidi
+phone_number: "+447830639155"
 # this has to be in quotes to ensure it is treated as a string
 # e.g. phone_number: "+18888675309"
 
@@ -15,12 +15,10 @@ splay: 7
 
 messages:
   one: |
-    this is message 1
-    it can be whatever you want it to be
+    Сюда иди говорят
+    тебя вызывают в чат, че ты уселся?
   two: |
-    this is message 2
-    again, it can be whatever you want it to be
-    so you can have some variation
+    Troy зазывала боt
 
 raid:
   CHANNEL_NAME:
